@@ -31,3 +31,14 @@ The project focuses on cashier-related operations for a cupcake shop and demonst
 ## Repository
 
 GitHub: https://github.com/omashi0816/Sweetcupcake-shop
+
+## Screenshots
+
+### Menu
+![Menu](scrinshot/menu.png)
+
+### Cashier Form
+![Cashier Form](scrinshot/cashier.png)
+
+### Manager Form
+![Manager Form](scrinshot/manager%20form.png)
